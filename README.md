@@ -1,4 +1,4 @@
-# About Me:
+# ✨About Me:
  Hi, I'm Bhuvanesh!<br>🎓 Computer Science & Engineering Student at VISTAS (Vels Institute of Science, Technology & Advanced Studies).<br>💻 Aspiring Full Stack Developer | Passionate about Web Development & Deep Learning.<br>🚀 Currently learning React.js, .NET, and Full Stack Development.<br>🤖 Working on Image Classification using Deep Learning (DIP Project).<br>📌 Interested in Software Development, Java, JavaScript, and Node.js.<br>🔧 Tools: Visual Studio Code, NetBeans, Gradle, Anaconda.<br><br>📫 Reach me at:<br>📧 Email: bhuvan1075@gmail.com
 
 
