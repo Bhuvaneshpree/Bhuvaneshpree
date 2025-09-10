@@ -18,7 +18,7 @@ export default function Navigation() {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = navItems.map(item => item.href.substring(1))
+      const sections = ['home', 'about', 'skills', 'projects', 'contact']
       const scrollPosition = window.scrollY + 100
 
       for (const section of sections) {
@@ -28,7 +28,7 @@ export default function Navigation() {
           const offsetHeight = element.offsetHeight
 
           if (scrollPosition >= offsetTop && scrollPosition < offsetTop + offsetHeight) {
-            setActiveSection(section === '' ? 'home' : section)
+            setActiveSection(section === 'home' ? 'home' : section)
             break
           }
         }
