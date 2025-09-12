@@ -1,21 +1,13 @@
-# 👋 Hey there, I’m Bhuvanesh!
 
 ![Profile views](https://komarev.com/ghpvc/?username=Bhuvaneshpree&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/Bhuvaneshpree?label=Follow&style=social)
 
-I’m a Computer Science & Engineering undergrad at VISTAS (Vels Institute of Science, Technology & Advanced Studies), fueled by ☕ and 💻. Passionate about full-stack web development and exploring the world of AI & Deep Learning.
 
----
+✨About Me:
 
-## 📋 Table of Contents
-- [🛠️ Tech Stack](#️🛠️-tech-stack)
-- [🚀 What I’m Working On](#🚀-what-im-working-on)
-- [🛠️ Toolbox](#🛠️-toolbox)
-- [📂 Current Projects & Interests](#📂-current-projects--interests)
-- [📫 How to Reach Me](#📫-how-to-reach-me)
-- [🎯 Fun Quote](#🎯-fun-quote)
+<br> 👋 Hey there, I’m Bhuvanesh!<br> I’m a Computer Science & Engineering undergrad at VISTAS (Vels Institute of Science, Technology & Advanced Studies), fueled by ☕ and 💻. Passionate about full-stack web development and diving into AI & Deep Learning.<br>  
 
----
+
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, JavaScript (ES6+)
