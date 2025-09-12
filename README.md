@@ -45,7 +45,7 @@ Feel free to explore my repositories:
 - [Basic_portfolio](https://github.com/Bhuvaneshpree/Basic_portfolio)  
 - [Bhuvaneshpree (Profile Repo)](https://github.com/Bhuvaneshpree/Bhuvaneshpree)  
 - [RD-INFRO-TECHNOLOGY](https://github.com/Bhuvaneshpree/RD-INFRO-TECHNOLOGY)  
-- [Real-time-insti-detect](https://github.com/Bhuvaneshpree/Real-time-insti-detect)  
+  
 
 ---
 
