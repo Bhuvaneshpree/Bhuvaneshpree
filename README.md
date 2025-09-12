@@ -1,6 +1,69 @@
-# ✨About Me:
- Hi, I'm Bhuvanesh!<br>🎓 Computer Science & Engineering Student at VISTAS (Vels Institute of Science, Technology & Advanced Studies).<br>💻 Aspiring Full Stack Developer | Passionate about Web Development & Deep Learning.<br>🚀 Currently learning React.js, .NET, and Full Stack Development.<br>🤖 Working on Image Classification using Deep Learning (DIP Project).<br>📌 Interested in Software Development, Java, JavaScript, and Node.js.<br>🔧 Tools: Visual Studio Code, NetBeans, Gradle, Anaconda.<br><br>📫 Reach me at:<br>📧 Email: bhuvan1075@gmail.com
+# 👋 Hey there, I’m Bhuvanesh!
 
+![Profile views](https://komarev.com/ghpvc/?username=Bhuvaneshpree&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/Bhuvaneshpree?label=Follow&style=social)
+
+I’m a Computer Science & Engineering undergrad at VISTAS (Vels Institute of Science, Technology & Advanced Studies), fueled by ☕ and 💻. Passionate about full-stack web development and exploring the world of AI & Deep Learning.
+
+---
+
+## 📋 Table of Contents
+- [🛠️ Tech Stack](#️🛠️-tech-stack)
+- [🚀 What I’m Working On](#🚀-what-im-working-on)
+- [🛠️ Toolbox](#🛠️-toolbox)
+- [📂 Current Projects & Interests](#📂-current-projects--interests)
+- [📫 How to Reach Me](#📫-how-to-reach-me)
+- [🎯 Fun Quote](#🎯-fun-quote)
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript (ES6+)
+- **Front-End:** React.js
+- **Back-End:** Node.js
+- **AI & Deep Learning:** Image-classification pipelines
+- **Prompt Engineering:** Crafting LLM prompts & generative-AI workflows
+
+---
+
+## 🚀 What I’m Working On
+- Prototyping image-classification models for my DIP (Digital Image Processing) project.  
+- Building full-stack web apps with React + Node.js (REST APIs & real-time features).  
+- Fine-tuning and experimenting with GPT-style models and prompt engineering.
+
+---
+
+## 🛠️ Toolbox
+My daily playground for coding and prototyping:
+- **VS Code** — my go-to IDE  
+- **Git & GitHub** — version control & collaboration  
+
+---
+
+## 📂 Current Projects & Interests
+- **DIP Project:** Training custom image-classification pipelines  
+- **Side Projects:** Integrating React.js front-ends with Node.js back-ends  
+- **AI Experiments:** Playing with prompt design and GPT-style model fine-tuning  
+
+---
+
+## 🧑‍💻 Your GitHub Footprint
+Feel free to explore my repositories:
+- [Agrimetaverse-Intelligence](https://github.com/Bhuvaneshpree/Agrimetaverse-Intelligence)  
+- [Basic_portfolio](https://github.com/Bhuvaneshpree/Basic_portfolio)  
+- [Bhuvaneshpree (Profile Repo)](https://github.com/Bhuvaneshpree/Bhuvaneshpree)  
+- [RD-INFRO-TECHNOLOGY](https://github.com/Bhuvaneshpree/RD-INFRO-TECHNOLOGY)  
+- [Real-time-insti-detect](https://github.com/Bhuvaneshpree/Real-time-insti-detect)  
+
+---
+
+## 📫 How to Reach Me
+- ✉️ Email: [bhuvan1075@gmail.com](mailto:bhuvan1075@gmail.com)  
+- 🔗 GitHub: [github.com/Bhuvaneshpree](https://github.com/Bhuvaneshpree)  
+
+---
+
+🎯 **“Code is like humor. When you have to explain it, it’s bad.”** 😉  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_bhuvan___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bhuvanesh-v-4628282ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhuvan1075@gmail.com) 
